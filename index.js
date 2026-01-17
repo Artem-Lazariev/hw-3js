@@ -1,4 +1,5 @@
-console.log(typeof (5+5+"5"))
+let rez = typeof (5+5+"5")
+console.log(rez)
 let email = "my@gmail.com"
 console.log(email.includes("@"))
 console.log(email.length)
@@ -9,8 +10,6 @@ let victor = "victor "
 let fullname = my + name + is + victor
 console.log(fullname)
 
-user = {
-    name: " Олександро!",
-    cost:300
-}
-console.log("thanks " + user.name + " pay " + user.cost + " please!")
+let name = " Олександро!"
+let cost = 300
+alert("thanks " + name + " pay " + cost + " please!")
