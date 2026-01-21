@@ -9,6 +9,6 @@ let is = "is "
 let victor = "victor "
 let fullname = my + name + is + victor
 console.log(fullname)
-name = " Олександро!"
+let namee = " Олександро!"
 let cost = 300
-alert("thanks " + name + " pay " + cost + " please!")
+alert("thanks " + namee + " pay " + cost + " please!")
