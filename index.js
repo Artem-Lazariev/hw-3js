@@ -10,6 +10,6 @@ let victor = "victor "
 let fullname = my + name + is + victor
 console.log(fullname)
 delete name
-let name = " Олександро!"
+name = " Олександро!"
 let cost = 300
 alert("thanks " + name + " pay " + cost + " please!")
